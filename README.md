@@ -1,1 +1,1 @@
-More documentation at https://raw.githubusercontent.com/AAR072/ptr/refs/heads/main/ptr.txt
+More documentation in your local system on /tmp/
